@@ -291,7 +291,7 @@
     </section>
 
 </div>
-<!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
+<!-- FOOTER: DEBUG INFO + COPYRIGHTSdgdfg -->
 
 <footer>
     <div class="environment">
