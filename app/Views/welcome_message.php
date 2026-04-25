@@ -8,7 +8,7 @@
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
 
     <!-- STYLES -->
-
+    
     <style {csp-style-nonce}>
         * {
             transition: background-color 300ms ease, color 300ms ease;
@@ -247,7 +247,7 @@
 
     <p>The corresponding controller for this page can be found at:</p>
 
-    <pre><code>app/Controllers/Home.php</code></pre>
+    <pre><code>app/Controllers/Home.php</code></pre> 
 
 </section>
 
@@ -291,7 +291,6 @@
     </section>
 
 </div>
-
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
 
 <footer>
